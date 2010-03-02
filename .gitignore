@@ -1,0 +1,7 @@
+bin/
+obj/
+*.log
+logs/
+_ReSharper*/
+*.suo
+*.user

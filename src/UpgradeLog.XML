@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FyiReporting">
+</Property><Property Name="Solution File" Value="C:\dev\Projects\Catch\FyiReporting\trunk\src\FyiReporting.sln">
+</Property><Property Name="Date" Value="Thursday, 17 September 2009">
+</Property><Property Name="Time" Value="8:47 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="DataProviders" Source="DataProviders\DataProviders.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataProviders" Source="DataProviders\DataProviders.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OracleSP" Source="OracleSp\OracleSP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OracleSP" Source="OracleSp\OracleSP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlAsp" Source="RdlAsp\RdlAsp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlAsp" Source="RdlAsp\RdlAsp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlCmd" Source="RdlCmd\RdlCmd.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlCmd" Source="RdlCmd\RdlCmd.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlCri" Source="RdlCri\RdlCri.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlCri" Source="RdlCri\RdlCri.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReportDesigner" Source="RdlDesign\ReportDesigner.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ReportDesigner" Source="RdlDesign\ReportDesigner.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlDesktop" Source="RdlDesktop\RdlDesktop.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlDesktop" Source="RdlDesktop\RdlDesktop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlEngine" Source="RdlEngine\RdlEngine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlEngine" Source="RdlEngine\RdlEngine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlMapFile" Source="RdlMapFile\RdlMapFile.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlMapFile" Source="RdlMapFile\RdlMapFile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataTests" Source="RdlTests\DataTests\DataTests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataTests" Source="RdlTests\DataTests\DataTests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestLibrary" Source="RdlTests\TestLibrary\TestLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestLibrary" Source="RdlTests\TestLibrary\TestLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RdlViewer" Source="RdlViewer\RdlViewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RdlViewer" Source="RdlViewer\RdlViewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FyiReporting.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="FyiReporting.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DataProviders" Source="DataProviders\DataProviders.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="OracleSP" Source="OracleSp\OracleSP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlAsp" Source="RdlAsp\RdlAsp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlCmd" Source="RdlCmd\RdlCmd.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlCri" Source="RdlCri\RdlCri.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ReportDesigner" Source="RdlDesign\ReportDesigner.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlDesktop" Source="RdlDesktop\RdlDesktop.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlEngine" Source="RdlEngine\RdlEngine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlMapFile" Source="RdlMapFile\RdlMapFile.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataTests" Source="RdlTests\DataTests\DataTests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TestLibrary" Source="RdlTests\TestLibrary\TestLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RdlViewer" Source="RdlViewer\RdlViewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
